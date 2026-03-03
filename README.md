@@ -12,7 +12,7 @@ Hello
 
 ## 📌 About Me
 
-- 💻 PERN Stack Developer
+- 💻 Full-Stack Developer
 - 📱 React Native & Flutter Developer
 - 🎯 Currently focusing on Web3, Full-Stack, and Mobile apps
 
