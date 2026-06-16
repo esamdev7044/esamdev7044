@@ -29,19 +29,14 @@ Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
   </a>
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=esamdev7044&theme=tokyonight" />
+  <img height="170" width="350" src="https://github-readme-stats.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight" />
+  <img height="170" width="350" src="https://streak-stats.demolab.com?user=esamdev7044&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night" height=400px />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight" />
-</p>
-
-
 
 * 🛠️ Languages & Tools
 
