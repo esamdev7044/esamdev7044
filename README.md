@@ -8,20 +8,28 @@ Hello
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&center=true&width=450&height=50&color=fff&vCenter=true&size=30">
 </p>
 
-<h3 align="center">I’m a Software Engineer specialized in Full-Stack Web and Mobile App Development, eager to build impactful tech solutions that merge innovation, usability, and performance</h3>
+## 🌱 Currently Exploring event-driven sytem and microservices
 
-## 📌 About Me
+## 👯 Open to Collaborate On
 
-- 💻 Full-Stack Developer
-- 📱 React Native & Flutter Developer
-- 🎯 Currently focusing on Web3, Full-Stack, and Mobile apps
+* 🚀 Full-Stack Web Applications
+* 📱 Flutter Mobile Applications
+* 🔗 RESTful APIs & Backend Systems
+* 🌍 Open Source Projects
 
-## 🧠 My Focus Areas
+## 🤝 Looking For Help With
 
-- Web development
-- Mobile Application development
-- Desktop development
-- Blockchain development
+* ☁️ Cloud Infrastructure & DevOps
+* 🏗️ Large-Scale System Design
+* 🔄 Event-Driven Architecture
+
+## 💬 Ask Me About
+
+* ⚛️ React.js
+* 🟢 Node.js & Express.js
+* 🐘 PostgreSQL & MongoDB
+* 📱 Flutter 
+* 🔌 REST APIs & Backend Development
 
 ## 📊 GitHub Stats & Trophies
 
