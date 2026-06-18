@@ -30,7 +30,7 @@ Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 </p>
 <p align="center">
   <img height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight" />
-  <img height="170" width="400" src="https://streak-stats.demolab.com?user=esamdev7044&theme=tokyonight" />
+  <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
