@@ -15,26 +15,15 @@ Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 
 *  💬 Ask Me About React • Node.js • Express.js • PostgreSQL • MongoDB • Flutter • Backend Development
 
-* <p align="left">🔗 Connect with Me 
-  <a href="https://www.linkedin.com/in/usmael-t" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" height="30"/>
-  </a>
-
-  <a href="https://wa.me/2510960699130" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="30" height="30"/>
-  </a>
-
-  <a href="mailto:usmael7044@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="30" height="30"/>
-  </a>
-</p>
+* <p align="left">🔗 Connect with Me &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/usmael-t" target="_blank"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" height="30"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/251960699130" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:usmael7044@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail"/></a></p>
 <p align="center">
-  <img height="170" width="400" src="https://github-readme-stats-eta-nine-77.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight" />
+<img height="170" width="400" src="https://github-readme-stats-eta-nine-77.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 <img height="170" width="400" src="https://github-readme-streak-stats-esam.vercel.app?user=esamdev7044&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night" />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night&t=1"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight" />
 </p>
 
