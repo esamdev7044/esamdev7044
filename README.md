@@ -24,7 +24,7 @@ Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 
 <p align="center">
   <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night&t=1"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-read-me.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight&count_private=true"/>
 </p>
 
 * 🛠️ Languages & Tools
