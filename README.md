@@ -4,7 +4,11 @@ Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flue
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&center=true&width=450&height=50&color=fff&vCenter=true&size=30">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;System+Architect"
+    alt="Typing SVG"
+  />
+</p>
 </p>
 
 *  🌱 Currently Exploring Event-Driven Systems & Microservices
