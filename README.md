@@ -1,6 +1,6 @@
 <h1 align="center">
-Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="34" alt="hello gif"/>
-  there, I'm <span style="background: #fff; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Usmael Taju</span>
+Hey  there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="34" alt="hello gif"/>
+ I'm <span style="background: #fff; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Usmael Taju</span>
 </h1>
 
 <p align="center">
