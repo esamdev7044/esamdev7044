@@ -21,16 +21,16 @@ Hey  there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animat
 
 * <p align="left">🔗 Connect with Me &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/usmael-t" target="_blank"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" height="30"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/251960699130" target="_blank">
   <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:usmael7044@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail"/></a></p>
-<p align="center">
+<!-- <p align="center">
   <img height="170" width="400" src="https://github-stats-read-me.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="170" width="400" src="https://esamdev7044-github-read-me.vercel.app/?user=esamdev7044&theme=tokyonight&count_private=true&include_all_commits=true"/>
-</p>
+</p> 
 
 <p align="center">
   <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night&t=1"/>
   <img height="170" src="https://github-stats-read-me.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight&count_private=true"/>
-</p>
-
+</p> 
+-->
 * 🛠️ Languages & Tools
 
 > * Programming Languages
