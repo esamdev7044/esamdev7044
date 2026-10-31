@@ -1,113 +1,89 @@
-<h1 align="center">
-Hey  there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="34" alt="hello gif"/>
- I'm <span style="background: #fff; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">Usmael Taju</span>
-</h1>
+<!-- Animated banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=200&section=header&text=Usmael%20Taju&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=18" alt="banner"/>
+</p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;System+Architect"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+event-driven+systems+%E2%9A%A1;Shipping+full-stack+apps+with+React+%26+Node.js;Crafting+Flutter+apps+for+real+users+%F0%9F%93%B1;Designing+microservices+that+scale+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
-</p>
-
-*  🌱 Currently Exploring Event-Driven Systems & Microservices
-
-*  👯 Open to Collaborate On Full-Stack Apps • Flutter Apps • REST APIs • Open Source Projects
-
-*  🤝 Looking for Help With Cloud Infrastructure • DevOps • System Design • Event-Driven Architecture
-
-*  💬 Ask Me About React • Node.js • Express.js • PostgreSQL • MongoDB • Flutter • Backend Development
-
-* <p align="left">🔗 Connect with Me &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/usmael-t" target="_blank"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="30" height="30"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/251960699130" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:usmael7044@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail"/></a></p>
-<!-- <p align="center">
-  <img height="170" width="400" src="https://github-stats-read-me.vercel.app/api?username=esamdev7044&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="170" width="400" src="https://esamdev7044-github-read-me.vercel.app/?user=esamdev7044&theme=tokyonight&count_private=true&include_all_commits=true"/>
-</p> 
 
 <p align="center">
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=esamdev7044&theme=tokyo-night&t=1"/>
-  <img height="170" src="https://github-stats-read-me.vercel.app/api/top-langs/?username=esamdev7044&layout=compact&theme=tokyonight&count_private=true"/>
-</p> 
--->
-* 🛠️ Languages & Tools
-
-### Programming Languages
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30" style="margin: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=esamdev7044&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://img.shields.io/github/followers/esamdev7044?style=flat&logo=github&label=Followers" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/esamdev7044?style=flat&logo=github&label=Stars" alt="stars"/>
 </p>
 
-### Frontend
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="30" height="30" style="margin: 10px;" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/usmael-t"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/251960699130"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:usmael7044@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### Backend
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" alt="Fastify" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="30" height="30" style="margin: 10px;" />
+## 👋 About me
+
+| | |
+|---|---|
+| 🌱 **Exploring** | Event-driven systems & microservices |
+| 👯 **Collaborating on** | Full-stack apps • Flutter apps • REST APIs • Open source |
+| 🤝 **Looking for help with** | Cloud infrastructure • DevOps • System design • Event-driven architecture |
+| 💬 **Ask me about** | React • Node.js • Express.js • PostgreSQL • MongoDB • Flutter • Backend development |
+
+---
+
+## 🛠️ Tech stack > *click to expand*
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,php,dart&perline=7"/></a>
+</details>
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6"/>
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs&perline=4"/>
+</details>
+
+<details>
+<summary><b>🗄️ Databases & ORM</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,redis&perline=6"/>
+</details>
+
+<details>
+<summary><b>📨 Messaging & distributed systems</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=rabbitmq,redis&perline=4"/> &nbsp;<img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white"/>
+</details>
+
+<details>
+<summary><b>☁️ DevOps & cloud</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,railway&perline=5"/>
+</details>
+
+<details>
+<summary><b>📦 Monorepo & tooling</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=turborepo,webpack,vite,pnpm,git,github,vscode,figma,postman&perline=9"/>
+</details>
+
+---
+
+## 💡 Dev quote of the moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-### Databases & ORM
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="30" height="30" style="margin: 10px;" />
-</p>
-
-### Messaging & Distributed Systems
-
-<p align="left">
-  <img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nats/nats-original.svg" alt="NATS" width="30" height="30" style="margin: 10px;" />
-</p>
-
-### DevOps, Cloud & Infrastructure
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" alt="Railway" width="30" height="30" style="margin: 10px;" />
-</p>
-
-### Monorepo & Build Tools
-
-<p align="left">
-  <img src="https://turbo.build/images/docs/repo/repo-header-logo.svg" alt="Turborepo" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="30" height="30" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="30" height="30" style="margin: 10px;" />
-</p>
-
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="30" height="30" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="30" height="30" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" style="margin: 10px;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,20&height=100&section=footer"/>
 </p>
