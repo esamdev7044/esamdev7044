@@ -1,8 +1,7 @@
 <!-- Animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,50:0759B8,100:00CFE8&height=200&section=header&text=Usmael%20Taju&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=18&descColor=FFFFFF" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006B70,50:0057B8,100:168BFF&height=200&section=header&text=Usmael%20Taju&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20System%20Architect&descAlignY=58&descSize=18&descColor=FFFFFF" alt="banner"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+event-driven+systems+%E2%9A%A1;Shipping+full-stack+apps+with+React+%26+Node.js;Crafting+Flutter+apps+for+real+users+%F0%9F%93%B1;Designing+microservices+that+scale+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
